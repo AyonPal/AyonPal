@@ -1,3 +1,10 @@
+![Header](https://github.com/AyonPal/AyonPal/raw/main/header.png "Header")
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyonPal&lang_count=4&theme=algolia"/>
+  </a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyonPal&theme=algolia&count_private=true&show_icons=true" alt="Ayon's Github Stats"/>
+  </a>
 ### Hi there 👋
 
 <!--
