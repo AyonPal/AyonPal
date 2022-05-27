@@ -9,13 +9,13 @@
 
 I love to try new technology. Recently started contributing to open source on Github. 
 
-Worked as *Freelancer* for **2+ years**. Currently trying to join industry.
+Worked as *Freelancer* for **4+ years**.
 
 Also I want to work on **Game Development**, as I spent a good amount of time playing games (and still play 😂) but it's still a dream for me.
 
 Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🙏 to help me start on open source.
 ### Top Projects I worked on
- - [DSP Design service webpage](https://dspdesign.netlify.app/) (ongoing)
+ - [Q1](https://qonebs.qa) All in One billing and Payment Solution Application (ongoing)
  - Kiosk - (Qatar based Vending Machine Software) as Backend Dev and Architect
  - [RiniRefrigeration](https://services.rinirefrigeration.in/customer/) - A Local service business site
 
@@ -28,15 +28,7 @@ Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🙏 to help 
 ### Framework/Tools I worked on
 #### Node.js
  - Express.js
- - Ghost CMS
  - React.js
-#### Python
- - Django
- - Flask
- - Jupyter
- - Matplotlib
- - Numpy
- - scikit-learn
 #### Mobile
  - Flutter
  - Android(**Java**)
@@ -45,7 +37,8 @@ Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🙏 to help 
  - NoSQL (**MongoDB**)
 #### Others
  - Wordpress
- - ForestAdmin (lumber)
+ - PHP
+ - Docker
  - and so many API and micro-service i can't even remember 😂
 
 ### OS/Web Service Preference
