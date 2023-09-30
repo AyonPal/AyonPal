@@ -8,7 +8,7 @@ Worked as *Freelance Software Developer* for **5+ years**.
 
 Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🙏 to help me start on open source.
 ### Top Projects I worked on
- - [Q1](https://qonebs.qa) All in One billing and Payment Solution Application (ongoing)
+ - Q1 All in One billing and Payment Solution Application (ongoing)
  - Kiosk - (Qatar based Vending Machine Software) as Backend Dev and Architect
  - [RiniRefrigeration](https://services.rinirefrigeration.in/customer/) - A Local service business site
 
