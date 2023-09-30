@@ -8,6 +8,13 @@ Worked as *Freelance Software Developer* for **5+ years**.
 
 Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🙏 to help me start on open source.
 ### Top Projects I worked on
+ - BAKERY - An Electron.js desktop application for Restaurant for make and store Recipes, their cost etc. 
+ - [Hebreuavecdan](https://www.hebreuavecdan.com/) - A full featured e-learning platform build on Wordpress to learn Hebrew for French speaking people.
+ - ORDOEXTRACT - A Chrome Extension that uses OCR and ChatGPT to mass input data to a medical software.
+ - [OPTICALS](https://app.tpopticien.fr/) - Custom saas solution for Spectacle making company to validate insurance refund from receipt and invoice.
+ - [HETEP](https://www.hissap.fr/) - IAOUT saas software with mobile application.
+ - [Girbal](https://www.bistromanager.com/) - Restaurant management website for local restaurants in France.
+ - [Voiceprescrit](https://www.voiceprescrit.com/) - Medical billing saas solution completely managed via voice command on the web interface.
  - Q1 All in One billing and Payment Solution Application (ongoing)
  - Kiosk - (Qatar based Vending Machine Software) as Backend Dev and Architect
  - [RiniRefrigeration](https://services.rinirefrigeration.in/customer/) - A Local service business site
