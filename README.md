@@ -3,9 +3,8 @@
 
 I love to try new technology. Recently started contributing to open source on Github. 
 
-Worked as *Freelancer* for **4+ years**.
+Worked as *Freelance Software Developer* for **5+ years**.
 
-Also I want to work on **Game Development**, as I spent a good amount of time playing games (and still play 😂) but it's still a dream for me.
 
 Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🙏 to help me start on open source.
 ### Top Projects I worked on
@@ -20,23 +19,20 @@ Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🙏 to help 
 
 ### Language I Preferred
 
- - Python
  - Node.js
- - Dart
+ - PHP
+ - Python
 
 ### Framework/Tools I worked on
 #### Node.js
  - Express.js
  - React.js
-#### Mobile
- - Flutter
- - Android(**Java**)
+ - Electron.js
 #### Database
  - SQL (**MySQL**)
  - NoSQL (**MongoDB**)
 #### Others
  - Wordpress
- - PHP
  - Docker
  - and so many API and micro-service i can't even remember 😂
 
@@ -44,9 +40,9 @@ Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🙏 to help 
 #### Web Service
 - AWS EC2
 - AWS S3
-- Heroku
-- Netlify
+- GCP
+- Google Cloud Function
 #### OS
-- Linux (**Debian** based and **Arch** based)
+- Linux
 - Windows
 
