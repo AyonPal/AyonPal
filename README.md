@@ -12,8 +12,8 @@ Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🙏 to help 
  - Kiosk - (Qatar based Vending Machine Software) as Backend Dev and Architect
  - [RiniRefrigeration](https://services.rinirefrigeration.in/customer/) - A Local service business site
 
-![](https://raw.githubusercontent.com/AyonPal/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AyonPal/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AyonPal/Stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AyonPal/Stats/master/generated/languages.svg#gh-dark-mode-only)
 
 > Generated with [Github Stats Visualization](https://github.com/jstrieb/github-stats)
 
