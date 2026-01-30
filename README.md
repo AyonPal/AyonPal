@@ -8,6 +8,8 @@ Worked as *Freelance Software Developer* for **6+ years**.
 
 Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🙏 to help me start on open source.
 ### Top Projects I worked on
+ - [Stepstohebrew](https://stepstohebrew.com/) - Hebrew learning platform - AI integration and AI learning assistant Avatar.
+ - Algoed.co - Backend developer for students competition platform.
  - BAKERY - An Electron.js desktop application for Restaurant for make and store Recipes, their cost etc. 
  - [Hebreuavecdan](https://www.hebreuavecdan.com/) - A full featured e-learning platform build on Wordpress to learn Hebrew for French speaking people.
  - ORDOEXTRACT - A Chrome Extension that uses OCR and ChatGPT to mass input data to a medical software.
