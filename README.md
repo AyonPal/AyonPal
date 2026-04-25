@@ -1,57 +1,81 @@
 ![Header](https://github.com/AyonPal/AyonPal/raw/main/header.png "Header")
-### Hi there 👋
 
-I love to try new technology. Recently started contributing to open source on Github. 
+### Hey, I'm Ayon 👋
 
-Worked as *Freelance Software Developer* for **6+ years**.
-### Website - [STACKFORGED](https://stackforged.com/)
+Freelance software engineer for **6+ years**. I build production AI systems, vertical micro-SaaS, and the data pipelines that feed them.
 
-Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🙏 to help me start on open source.
-### Top Projects I worked on
- - [Stepstohebrew](https://stepstohebrew.com/) - Hebrew learning platform - AI integration and AI learning assistant Avatar.
- - Algoed.co - Backend developer for students competition platform.
- - BAKERY - An Electron.js desktop application for Restaurant for make and store Recipes, their cost etc. 
- - [Hebreuavecdan](https://www.hebreuavecdan.com/) - A full featured e-learning platform build on Wordpress to learn Hebrew for French speaking people.
- - ORDOEXTRACT - A Chrome Extension that uses OCR and ChatGPT to mass input data to a medical software.
- - [OPTICALS](https://app.tpopticien.fr/) - Custom saas solution for Spectacle making company to validate insurance refund from receipt and invoice.
- - [HETEP](https://www.hissap.fr/) - IAOUT saas software with mobile application.
- - [Girbal](https://www.bistromanager.com/) - Restaurant management website for local restaurants in France.
- - [Voiceprescrit](https://www.voiceprescrit.com/) - Medical billing saas solution completely managed via voice command on the web interface.
- - Q1 All in One billing and Payment Solution Application (ongoing)
- - Kiosk - (Qatar based Vending Machine Software) as Backend Dev and Architect
- - [RiniRefrigeration](https://services.rinirefrigeration.in/customer/) - A Local service business site
+📩 [stackforged.com](https://stackforged.com/) • Open to consulting and contract work
+
+---
+
+### What I'm working on now
+
+- **OpenYabby** — engineer on an open-source voice-driven multi-agent system for macOS. Multi-agent orchestration, WhatsApp/Telegram channels, persistent memory (Mem0 + Qdrant), WebRTC voice. Node + Postgres + Redis.
+- **Hacknt** — AI-powered security scanner for GitHub repos. Mistral-driven analysis, real-time scan streaming, credit billing. Next.js 15 + Prisma + Postgres.
+- **Cloudflare Workers + D1 micro-SaaS** — shipped 6+ vertical SaaS on this stack: booking, payments, embeds, waitlists.
+
+---
+
+### Selected work
+
+**AI / multi-agent / voice**
+- [OpenYabby](https://github.com/idovmamane/OpenYabby) — voice-driven agent OS for Mac (multi-agent orchestration, WhatsApp/Telegram channels, OpenAI Realtime, Mem0/Qdrant memory)
+- Hacknt — AI security scanner SaaS (Mistral, live streaming, credit billing)
+- ORDOEXTRACT — Chrome extension that uses OCR + GPT to mass-input data into medical software
+- [Voiceprescrit](https://www.voiceprescrit.com/) — voice-controlled medical billing SaaS
+- [Stepstohebrew](https://stepstohebrew.com/) — Hebrew learning platform with AI tutoring avatar
+
+**Vertical micro-SaaS (Cloudflare Workers + D1)**
+- [inkos](https://github.com/AyonPal/inkos) — booking + Stripe deposits + consent forms + aftercare for tattoo artists
+- notarykit — signing log + mileage + payments + CSV export for US mobile notaries
+- saynice — testimonial collection widget with one-line embed
+- waitlist-api — shared waitlist email API across products
+
+**Data extraction / scraping / OCR**
+- [bank-statement-pdf-parser](https://github.com/AyonPal/bank-statement-pdf-parser) — production parser for messy bank statement PDFs → structured JSON/CSV
+- [craft](https://github.com/AyonPal/craft) — multilingual OCR pipeline (Hebrew horizontal + Japanese vertical) with OpenCV + Tesseract
+- [ocr](https://github.com/AyonPal/ocr) — image-folder OCR via local Ollama (GLM-OCR)
+- Cloudflare/anti-bot scraper toolkit (curl-cffi, seleniumbase fallback)
+
+**Backend + business platforms**
+- AlgoEd — Node.js backend for student competition platform (REST, AWS S3/SES, JWT, Redis + BullMQ, Sequelize/MySQL)
+- [HETEP](https://www.hissap.fr/) — IAOUT SaaS with mobile companion app
+- [OPTICALS](https://app.tpopticien.fr/) — insurance refund validation SaaS for spectacle makers
+- [Girbal / Bistromanager](https://www.bistromanager.com/) — restaurant management SaaS (France)
+- [Hebreuavecdan](https://www.hebreuavecdan.com/) — full e-learning platform (WordPress)
+- Q1 — all-in-one billing + payments app
+- Kiosk — Qatar-based vending machine software (backend + architecture)
+- BAKERY — Electron desktop app for restaurant recipe + cost management
+- [RiniRefrigeration](https://services.rinirefrigeration.in/customer/) — local service business site
+- [telegram-video-maker](https://github.com/AyonPal/telegram-video-maker) — headless renderer that turns JSON chat scripts into Telegram-styled MP4 videos
+
+---
+
+### Available for
+
+- Building AI features end-to-end (agents, RAG, voice, multi-agent flows)
+- Cloudflare Workers + D1 SaaS — quote-to-launch in 2–4 weeks
+- Unblocking scrapers (Cloudflare / anti-bot walls, multilingual OCR)
+- Senior pair-of-hands on a tight project (2–6 weeks)
+
+📩 Reach me via [stackforged.com](https://stackforged.com/)
+
+---
+
+### Stack
+
+**Languages:** TypeScript • Node.js • Python • PHP • Swift • Rust • Dart
+**Frontend:** React • Next.js (App Router) • React Native • Electron
+**Backend:** Hono • Express • Laravel • Sequelize • Prisma • BullMQ
+**Edge / Serverless:** Cloudflare Workers • D1 • Durable Objects
+**Databases:** PostgreSQL • MySQL • SQLite • Redis • Qdrant • MongoDB
+**AI / ML:** Anthropic • OpenAI Realtime • Mistral • WhisperX • Mem0 • Ollama • Tesseract • OpenCV
+**Cloud / DevOps:** AWS (EC2, S3, SES) • GCP • Cloudflare • Docker • PM2
+**Tools:** Stripe • Playwright • ffmpeg • WebRTC
+
+---
 
 ![](https://raw.githubusercontent.com/AyonPal/Stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AyonPal/Stats/master/generated/languages.svg#gh-dark-mode-only)
 
-> Generated with [Github Stats Visualization](https://github.com/jstrieb/github-stats)
-
-### Language I Preferred
-
- - Node.js
- - PHP
- - Python
-
-### Framework/Tools I worked on
-#### Node.js
- - Express.js
- - React.js
- - Electron.js
-#### Database
- - SQL (**MySQL**)
- - NoSQL (**MongoDB**)
-#### Others
- - Wordpress
- - Docker
- - and so many API and micro-service i can't even remember 😂
-
-### OS/Web Service Preference
-#### Web Service
-- AWS EC2
-- AWS S3
-- GCP
-- Google Cloud Function
-#### OS
-- Linux
-- Windows
-
+> Stats via [github-stats](https://github.com/jstrieb/github-stats)
