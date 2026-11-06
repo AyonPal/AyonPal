@@ -75,7 +75,4 @@ Freelance software engineer for **6+ years**. I build production AI systems, ver
 
 ---
 
-![](https://raw.githubusercontent.com/AyonPal/Stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AyonPal/Stats/master/generated/languages.svg#gh-dark-mode-only)
-
-> Stats via [github-stats](https://github.com/jstrieb/github-stats)
+![Metrics](/github-metrics.svg)
